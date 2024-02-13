@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Book Store (MERN)](https://github.com/raymyun/MERN-Book-Store)
 
-- 🌱 I’m currently learning **SQL, tensorflow**
+- 🌱 I’m currently learning **tensorflow**
 
 - 👨‍💻 All of my projects are available at [https://yangraymond.com/](https://yangraymond.com/)
 
