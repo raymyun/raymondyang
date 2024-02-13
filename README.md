@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋Hi,+I'm+Raymond)](https://git.io/typing-svg)
 
-<h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/raymyun/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
