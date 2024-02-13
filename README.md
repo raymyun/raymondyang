@@ -3,14 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raymyun&label=Profile%20views&color=0e75b6&style=plastic" alt="raymyun" /> </p>
 
-- 🔭 I’m currently working on [Book Store (MERN)](https://github.com/raymyun/MERN-Book-Store)
-
-- 🌱 I’m currently learning **postgreSQL, tensorflow**
-
-- 👨‍💻 All of my projects are available at [https://yangraymond.com/](https://yangraymond.com/)
-
-- 📫 How to reach me **yangraymond2011@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/raymyun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raymyun" height="30" width="40" /></a>
