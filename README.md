@@ -1,4 +1,4 @@
-<h1 className='text-green-500' align="center">Hi 👋, I'm Raymond</h1>
+<h1 align="center">Hi 👋, I'm Raymond</h1>
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/raymyun/" target="_blank">
