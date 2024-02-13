@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raymond</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋Hi,+I'm+Raymond)](https://git.io/typing-svg)
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/raymyun/" target="_blank">
